@@ -1,0 +1,12 @@
+密钥：
+>3L9K3~Titq?5_gauwdM
+消息：
+88643973636690563243
+hmac值：
+98D6D05F193709A30D863428A1235CDA
+
+密钥:
+mykey
+信息：
+mymessage
+d811630c4e62c6ef90d1bfe540212aaf
